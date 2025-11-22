@@ -1,0 +1,1 @@
+# drf-sample__custom_master_snapshot
